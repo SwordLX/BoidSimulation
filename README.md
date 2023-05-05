@@ -3,6 +3,8 @@
 In this project, I've implemented Boid Simulation Algorithm.
 This algorithm mainly follow 5 rules which control every boid's behavior.
 
+If you cannot see anything in the viewport, plese recompile and reload C++ code.
+
 Rule 1: every boid has a tendency to move towards the center of other boids. 
 
 Rule 2: every boid should avoid collide with others and keep a fixed distance.
